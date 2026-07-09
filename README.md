@@ -1,4 +1,4 @@
 # PowerBox
-A collection of some Powershell scripts i wrote.
-## Pin-App
-Can be used to force unpin any app from the start menu. Currently has no UI whatsoever, so you need to edit the script yourself in order to use it.
+A collection of some Powershell scripts I've made.
+## Set-StartPin
+If you've somehow broken the tiles on your Start Menu in such a way that it becomes impossible to unpin a certain App, this script might be able to help you. Also able to do the opposite, if you ever need that.
